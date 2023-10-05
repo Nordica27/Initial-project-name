@@ -1,4 +1,4 @@
-**Initial project name made in Photoshop CC 2019**
+**Initials project, made in Photoshop CC 2019**
 
 I made a small presentation of names with initials that are very popular these days. Thanks to unsplash.com for the photo.<br />
 **Software:** Photoshop CC 2019 v20.0.6 <br />
